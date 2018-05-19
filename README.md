@@ -1,12 +1,19 @@
 
 诸多链接地址:
 homebrew-menu  4.x
+
 https://github.com/nx-python/hekate-ipl-4x/releases
+
 homebrew-menu   5.x
+
 https://github.com/Jan4V/hekate-ipl-50x/releases/tag/v1.0.0
+
 webloader 网页版载入器
+
 https://atlas44.s3-us-west-2.amazonaws.com/web-fusee-launcher/index.html
+
 我的资料包地址:度盘链接：pan.baidu.com/s/11xkU019g-0HSn-S1JDQi9A 密码：t31i
+
 Dorpbox https://www.dropbox.com/s/gkf5f3axgr0vkvi/%E6%95%B4%E7%90%86_switch%E8%BF%9B%E8%87%AA%E5%88%B6%E8%8F%9C%E5%8D%9520180520.zip?dl=0
 
 switch RCM 载入自制软件教程
