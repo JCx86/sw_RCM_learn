@@ -12,7 +12,8 @@ webloader 网页版载入器
 
 https://atlas44.s3-us-west-2.amazonaws.com/web-fusee-launcher/index.html
 
-我的资料包地址:度盘链接：pan.baidu.com/s/11xkU019g-0HSn-S1JDQi9A 密码：t31i
+我的资料包地址:度盘链接：
+链接: https://pan.baidu.com/s/1xZSBi2293OP1MaHUF7gyMw 密码: 7uk5
 
 Dorpbox https://www.dropbox.com/s/gkf5f3axgr0vkvi/%E6%95%B4%E7%90%86_switch%E8%BF%9B%E8%87%AA%E5%88%B6%E8%8F%9C%E5%8D%9520180520.zip?dl=0
 
